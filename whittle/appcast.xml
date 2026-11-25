@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Whittle</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 24 Nov 2026 17:10:18 -0600</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Whittle 0.1.0
+
+- Practice with local audio and video using pitch-preserving slowdown, semitone transposition, markers, and loops.
+- The Follow menu marks the selected mode. New sessions default to Page.
+- Drag recordings into Whittle, search commands in the command palette, and save your practice and playlists in Whittle projects.
+- Try Whittle for seven days without an account or payment method.
+]]></description>
+            <enclosure url="https://github.com/1xv-dev/whittle-releases/releases/download/v0.1.0/Whittle-0.1.0-arm64.app.zip" length="19469004" type="application/octet-stream" sparkle:edSignature="c6bbdxEYfET3atpbyDweYGcUgTo8eEhglBDj7z0E8wSTppU4Fh8hSDMw13LjEWPgM5ALkk6pVQ7Kf8v0y/7KBA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 9GMhi+1VspYbRh8f30/VeM3mowzY9BVmCWV+IMqOcS6v4Rd6z3pVi30x3sbIAFEu5ZUXpP8pSNytAcg4AsT8Bg==
+length: 1616
+-->
