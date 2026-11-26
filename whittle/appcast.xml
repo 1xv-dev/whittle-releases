@@ -4,23 +4,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Whittle</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 24 Nov 2026 17:10:18 -0600</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.1.1</title>
+            <pubDate>Wed, 25 Nov 2026 19:53:37 -0600</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Whittle 0.1.0
+            <description sparkle:format="markdown"><![CDATA[# Whittle 0.1.1
 
-- Practice with local audio and video using pitch-preserving slowdown, semitone transposition, markers, and loops.
-- The Follow menu marks the selected mode. New sessions default to Page.
-- Drag recordings into Whittle, search commands in the command palette, and save your practice and playlists in Whittle projects.
-- Try Whittle for seven days without an account or payment method.
+## New since 0.1.0
+
+- Try Whittle's keyboard controls with a guide that points to the controls in
+  the practice window. Skip anytime or replay it from **Help → Practice Walkthrough**.
+- Place, name, and edit markers at the start and end of a recording. Whittle
+  saves them with your project. Projects with markers at the recording edges
+  require this version or later.
+- Press **W** and **E** to jump to either end of the recording.
+- Press **Shift-F** to fit a selected loop and cue its start when paused. Press
+  **F** to fit the whole recording.
+- The playhead and timer keep moving when you switch to 10% speed during playback.
+- Whittle can send crash diagnostics to help fix crashes. To turn reporting
+  off, open **Settings → Privacy**.
 ]]></description>
-            <enclosure url="https://github.com/1xv-dev/whittle-releases/releases/download/v0.1.0/Whittle-0.1.0-arm64.app.zip" length="19469004" type="application/octet-stream" sparkle:edSignature="c6bbdxEYfET3atpbyDweYGcUgTo8eEhglBDj7z0E8wSTppU4Fh8hSDMw13LjEWPgM5ALkk6pVQ7Kf8v0y/7KBA=="></enclosure>
+            <enclosure url="https://github.com/1xv-dev/whittle-releases/releases/download/v0.1.1/Whittle-0.1.1-arm64.app.zip" length="21172729" type="application/octet-stream" sparkle:edSignature="a3V+WwY151egMSNmj1hvT2LvV23vTtOUXKA7D8QXsKLnOBpdzyz+du9JlS3iXpe9r933RuVzcl2eND247KXzBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9GMhi+1VspYbRh8f30/VeM3mowzY9BVmCWV+IMqOcS6v4Rd6z3pVi30x3sbIAFEu5ZUXpP8pSNytAcg4AsT8Bg==
-length: 1616
+edSignature: t3Gl0P0SSkUR3VgMCwmey1pNcX0KXeQG19kTEl+loOKDjE30B/8zit6uuzkC6TVAwozetE3pA6pryImX7ssTAg==
+length: 1982
 -->
